@@ -281,6 +281,10 @@ input:hover{
   box-sizing: border-box;/* Ensures padding and border are included in the element's total width and height*/
   transition:border-color 0.4s ease-in-out,box-shadow 0.4s ease-in-out;/* Smooth transition for border color and shadow on hover and focus*/
 }
-body,h1,h2,h3,h4,h5,h6 {
+body,h1,h2,h3,h4,h6 {
     font-family: "Raleway", sans-serif;
+}
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
 }
