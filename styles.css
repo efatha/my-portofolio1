@@ -284,7 +284,14 @@ input:hover{
 body,h1,h2,h3,h4,h6 {
     font-family: "Raleway", sans-serif;
 }
+
 h5{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
+}
+.efa-grey{
+    border-radius: 15px;
+}
+.efa-container{
+    border-radius: 15px;
 }
